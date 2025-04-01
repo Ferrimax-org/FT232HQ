@@ -173,6 +173,10 @@ Las contribuciones son bienvenidas. Por favor, sigue estos pasos:
 4. Push a la rama
 5. Crea un Pull Request
 
+## Recursos Externos
+
+- [Documentación de Pinouts FT232H de Adafruit](https://learn.adafruit.com/circuitpython-on-any-computer-with-ft232h/pinouts) - Guía detallada de los pines y funcionalidades del FT232H.
+
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
